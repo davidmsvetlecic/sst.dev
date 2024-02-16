@@ -71,7 +71,7 @@ new Api(this, "Api", {
 });
 ```
 
-We'll go with the default setting for now.
+We'll go with the default setting for now. So there is no need to add anything about CORS now.
 
 ### CORS Headers in Lambda Functions
 
